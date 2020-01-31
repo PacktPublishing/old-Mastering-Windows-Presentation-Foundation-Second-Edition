@@ -1,0 +1,62 @@
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csprojResolveAssemblyReference.cache
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.dll
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csprojResolveAssemblyReference.cache
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csprojResolveAssemblyReference.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csprojResolveAssemblyReference.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csprojAssemblyReference.cache
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csproj.CoreCompileInputs.cache
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csproj.CopyComplete
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csprojAssemblyReference.cache
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csproj.CopyComplete
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csprojAssemblyReference.cache
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csproj.CopyComplete
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csprojAssemblyReference.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.csproj.CopyComplete
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.DataModels\obj\Debug\CompanyName.ApplicationName.DataModels.pdb

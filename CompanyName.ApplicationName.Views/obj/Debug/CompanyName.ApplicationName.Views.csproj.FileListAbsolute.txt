@@ -1,0 +1,553 @@
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csprojResolveAssemblyReference.cache
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.g.cs
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MainView.g.cs
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UsersView.g.cs
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.cache
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.lref
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.dll
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.pdb
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.dll
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.dll
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.pdb
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.pdb
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.g.cs
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.baml
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.baml
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MainView.baml
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UsersView.baml
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.g.resources
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.dll
+\\volume.ministryofsound.mos.local\user$\syuen\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csprojResolveAssemblyReference.cache
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MainView.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UsersView.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.cache
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.lref
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.baml
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.baml
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MainView.baml
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UsersView.baml
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.g.resources
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.baml
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.dll
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.pdb
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.dll
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.dll
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.dll
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.pdb
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.pdb
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.pdb
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csprojResolveAssemblyReference.cache
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.g.cs
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.g.cs
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.g.cs
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MainView.g.cs
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TestView.g.cs
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UsersView.g.cs
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.g.cs
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.cache
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.lref
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.baml
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.baml
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.baml
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MainView.baml
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TestView.baml
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UsersView.baml
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.baml
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.g.resources
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.dll
+I:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.dll
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.pdb
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.baml
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.baml
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TestView.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TriggerView.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.g.cs
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.baml
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TestView.baml
+C:\DevelopmentProjects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TriggerView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csprojResolveAssemblyReference.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView_NotifyBasic.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView_Basic.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView_Advanced.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AsyncView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FreezableControl.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\GlowButton.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MainView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView_NotifyBasic.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView_NotifyAdvanced.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView_Basic.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView_Advanced.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TestView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TextView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TriggerView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UsersView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.lref
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AsyncView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FreezableControl.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\GlowButton.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MainView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView_NotifyAdvanced.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TestView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TextView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TriggerView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UsersView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.g.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csprojResolveAssemblyReference.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TextView.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.lref
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TextView.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.g.resources
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductViewExtended.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductViewExtended.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewExtended.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewExtended.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyView.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyView.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll.config
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csprojAssemblyReference.cache
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BoundlessTextBlock.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\Spreadsheet.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyView.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductViewExtended.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BoundlessTextBlock.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\Spreadsheet.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ForcedContainerItemsControlView.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyView.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewExtended.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductViewExtended.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\SpreadsheetView.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TextView.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.cache
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.lref
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ForcedContainerItemsControlView.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewExtended.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\SpreadsheetView.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\TextView.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.g.resources
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csproj.CoreCompileInputs.cache
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csproj.CopyComplete
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll.config
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csprojAssemblyReference.cache
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AdornerView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllProductsView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AnimationView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ButtonView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CanvasView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BoundlessTextBlock.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\Spreadsheet.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\EasingAnimationView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MenuView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MeterView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ErrorTemplateView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductViewExtended.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\StartView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\VisuallyAppealingView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AdornerView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllProductsView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllUsersView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AnimationView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ButtonView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CanvasView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BoundlessTextBlock.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\Spreadsheet.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\EasingAnimationView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\FeedbackView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ForcedContainerItemsControlView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MenuView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MeterView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\PanelView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ErrorTemplateView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewExtended.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductViewExtended.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\SpreadsheetView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\StartView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\VisuallyAppealingView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.cache
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.lref
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllUsersView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\FeedbackView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ForcedContainerItemsControlView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\PanelView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewExtended.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\SpreadsheetView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.g.resources
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csproj.CopyComplete
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll.config
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csprojAssemblyReference.cache
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AdornerView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllProductsView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AnimationView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ButtonView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CanvasView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BoundlessTextBlock.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\Spreadsheet.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\EasingAnimationView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MenuView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MeterView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ErrorTemplateView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductViewExtended.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\StartView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\VisuallyAppealingView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AdornerView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllProductsView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllUsersView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AnimationView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ButtonView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CanvasView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BoundlessTextBlock.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\Spreadsheet.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\EasingAnimationView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\FeedbackView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ForcedContainerItemsControlView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MenuView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MeterView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\PanelView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ErrorTemplateView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewExtended.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductViewExtended.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\SpreadsheetView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\StartView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\VisuallyAppealingView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.cache
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.lref
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllUsersView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\FeedbackView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ForcedContainerItemsControlView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\PanelView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewExtended.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\SpreadsheetView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.g.resources
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csproj.CopyComplete
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Converters.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.DataModels.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Extensions.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Managers.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.ViewModels.dll.config
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\bin\Debug\CompanyName.ApplicationName.Models.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csprojAssemblyReference.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AdornerView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllProductsView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AnimationView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ButtonView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CanvasView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BoundlessTextBlock.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\Spreadsheet.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\EasingAnimationView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MenuView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MeterView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ErrorTemplateView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductViewExtended.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\StartView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\VisuallyAppealingView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AdornerView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllProductsView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllUsersView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AnimatedPanelView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AnimationView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\BitRateView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ButtonView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CanvasView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BoundlessTextBlock.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\BorderlessWindow.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\Spreadsheet.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\EasingAnimationView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\FeedbackView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ForcedContainerItemsControlView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MenuView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\MeterView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\PanelView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ErrorTemplateView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewExtended.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewGeneric.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductViewExtended.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\SpreadsheetView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\StartView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\VisuallyAppealingView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\WeightMeasurementsView.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views_MarkupCompile.lref
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AllUsersView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AnimatedPanelView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\AddressControl.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\CalloutWindow.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FeedbackControl.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\Controls\FolderPathEditField.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\DrawingView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\FeedbackView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ForcedContainerItemsControlView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\PanelView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewExtended.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewGeneric.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\SpreadsheetView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\UserView.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.g.resources
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csproj.CoreCompileInputs.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.csproj.CopyComplete
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\CompanyName.ApplicationName.Views.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AnimatedPanelView.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewGeneric.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\AnimatedPanelView.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Views\obj\Debug\ProductNotifyViewGeneric.baml

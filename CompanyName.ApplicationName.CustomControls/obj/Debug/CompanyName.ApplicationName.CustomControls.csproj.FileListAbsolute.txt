@@ -1,0 +1,74 @@
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.lref
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\Themes\Generic.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.g.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.Properties.Resources.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csproj.GenerateResource.Cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.lref
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\Themes\Generic.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.g.resources
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.Properties.Resources.resources
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csproj.GenerateResource.Cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.cache
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.lref
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\Themes\Generic.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.g.resources
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.Properties.Resources.resources
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csproj.GenerateResource.cache
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csproj.CoreCompileInputs.cache
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csprojAssemblyReference.cache
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csprojAssemblyReference.cache
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.cache
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.lref
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\Themes\Generic.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.g.resources
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.Properties.Resources.resources
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csproj.GenerateResource.cache
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csprojAssemblyReference.cache
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.cache
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.lref
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\Themes\Generic.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.g.resources
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.Properties.Resources.resources
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csproj.GenerateResource.cache
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\bin\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls_MarkupCompile.lref
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\Themes\Generic.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.g.resources
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.Properties.Resources.resources
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csproj.GenerateResource.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.CustomControls\obj\Debug\CompanyName.ApplicationName.CustomControls.csprojAssemblyReference.cache

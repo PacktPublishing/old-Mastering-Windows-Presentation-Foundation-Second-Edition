@@ -1,0 +1,50 @@
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\Styles\Control Styles.baml
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources_MarkupCompile.cache
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.g.resources
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.dll
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.pdb
+F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.csprojResolveAssemblyReference.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.pdb
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.csprojResolveAssemblyReference.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\Styles\Control Styles.baml
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources_MarkupCompile.cache
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.g.resources
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.dll
+C:\Users\sheri\Desktop\Edited Code\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\Styles\Control Styles.baml
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources_MarkupCompile.cache
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.g.resources
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.csproj.CoreCompileInputs.cache
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.dll
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.pdb
+D:\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.csprojAssemblyReference.cache
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.pdb
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.csprojAssemblyReference.cache
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\Styles\Control Styles.baml
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources_MarkupCompile.cache
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.g.resources
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.dll
+C:\Users\user\Documents\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\Styles\Control Styles.baml
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources_MarkupCompile.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.g.resources
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.dll
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\bin\Debug\CompanyName.ApplicationName.Resources.pdb
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.csprojAssemblyReference.cache
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\Styles\Control Styles.baml
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources_MarkupCompile.cache
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.g.resources
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.dll
+C:\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.pdb
+C:\Users\Sheridan\Documents\Visual Studio\Projects\CompanyName.ApplicationName\CompanyName.ApplicationName.Resources\obj\Debug\CompanyName.ApplicationName.Resources.csprojAssemblyReference.cache
